@@ -5,11 +5,11 @@ Ready-to-use prompts for SEO, marketing, social media, sales, content creation, 
 
 # Content Marketing
 
-[Prompt Templates for Writing SEO Blog Posts That Rank]()
-[Prompt Templates for Creating Topic Clusters Around a Keyword]()
-[Prompt Templates for Finding Low-Competition Keywords]()
-Prompt Templates for Updating Old Blog Content
-Prompt Templates for Writing Product Comparison Articles
+- [Prompt Templates for Writing SEO Blog Posts That Rank]()
+- [Prompt Templates for Creating Topic Clusters Around a Keyword]()
+- [Prompt Templates for Finding Low-Competition Keywords]()
+- Prompt Templates for Updating Old Blog Content
+- Prompt Templates for Writing Product Comparison Articles
 Prompt Templates for Creating Ultimate Guide Articles
 Prompt Templates for Writing Listicle Posts
 Prompt Templates for Generating FAQ Sections
