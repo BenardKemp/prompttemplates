@@ -2,51 +2,20 @@
 Ready-to-use prompts for SEO, marketing, social media, sales, content creation, and AI-powered business workflows.
 
 
-<!-- wp:heading -->
-<h2 class="wp-block-heading">Content Marketing</h2>
-<!-- /wp:heading -->
 
-<!-- wp:list {"ordered":true} -->
-<ol class="wp-block-list"><!-- wp:list-item -->
-<li><a href="https://prompttemplates.org/seo/prompt-templates-for-writing-seo-blog-posts-that-rank/">Prompt Templates for Writing SEO Blog Posts That Rank</a></li>
-<!-- /wp:list-item -->
+# Content Marketing
 
-<!-- wp:list-item -->
-<li><a href="https://prompttemplates.org/marketing/prompt-templates-for-creating-topic-clusters-around-a-keyword/">Prompt Templates for Creating Topic Clusters Around a Keyword</a></li>
-<!-- /wp:list-item -->
+[Prompt Templates for Writing SEO Blog Posts That Rank]()
+[Prompt Templates for Creating Topic Clusters Around a Keyword]()
+[Prompt Templates for Finding Low-Competition Keywords]()
+Prompt Templates for Updating Old Blog Content
+Prompt Templates for Writing Product Comparison Articles
+Prompt Templates for Creating Ultimate Guide Articles
+Prompt Templates for Writing Listicle Posts
+Prompt Templates for Generating FAQ Sections
+Prompt Templates for Creating Content Briefs
+Prompt Templates for Repurposing Blog Posts Into Social Media Content
 
-<!-- wp:list-item -->
-<li><a href="https://prompttemplates.org/seo/prompt-templates-for-finding-low-competition-keywords/">Prompt Templates for Finding Low-Competition Keywords</a></li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li><a href="https://prompttemplates.org/seo/prompt-templates-for-updating-old-blog-content/">Prompt Templates for Updating Old Blog Content</a></li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li><a href="https://prompttemplates.org/marketing/prompt-templates-for-writing-product-comparison-articles/">Prompt Templates for Writing Product Comparison Articles</a></li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li><a href="https://prompttemplates.org/uncategorized/prompt-templates-for-creating-ultimate-guide-articles/">Prompt Templates for Creating Ultimate Guide Articles</a></li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li><a href="https://prompttemplates.org/seo/prompt-templates-for-writing-listicle-posts/">Prompt Templates for Writing Listicle Posts</a></li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li><a href="https://prompttemplates.org/seo/prompt-templates-for-generating-faq-sections/">Prompt Templates for Generating FAQ Sections</a></li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li><a href="https://prompttemplates.org/seo/prompt-templates-for-creating-content-briefs/">Prompt Templates for Creating Content Briefs</a></li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li><a href="https://prompttemplates.org/marketing/prompt-templates-for-repurposing-blog-posts-into-social-media-content/">Prompt Templates for Repurposing Blog Posts Into Social Media Content</a></li>
-<!-- /wp:list-item --></ol>
-<!-- /wp:list -->
 
 <!-- wp:heading -->
 <h2 class="wp-block-heading">LinkedIn Marketing</h2>
